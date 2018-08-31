@@ -12,8 +12,6 @@ import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity {
 
-    @BindView(R.id.toolbar)
-    Toolbar toolbar;
     @BindView(R.id.drawer)
     DrawerLayout drawerLayout;
 //    @BindView(R.id.nav) NavigationView navigationView;
